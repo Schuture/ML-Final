@@ -201,7 +201,7 @@ def main(fold):
 if __name__ == '__main__':
     # 设置超参数
     meta = True
-    data_dir = 'D:/数据集/POCUS_5fold'
+    data_dir = 'POCUS_5fold'
     USCL_pretrain = False
     state_dict_path = 'best_model.pth'  # 预训练参数
     lr = 1e-3

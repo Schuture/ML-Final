@@ -84,7 +84,7 @@ class COVIDDataset(Dataset):
 
 
 if __name__ == '__main__':
-    data_dir = 'D:/数据集/POCUS_5fold'
+    data_dir = 'POCUS_5fold'
     BATCH_SIZE = 128
 
     # 测试
